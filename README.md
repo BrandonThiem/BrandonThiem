@@ -1,0 +1,4 @@
+- 👋 Hey, I’m @BrandonThiem. You can find me on TryHackMe, HackTheBox & Linkedin.
+- 👀 I’m interested in Vulnerabilities, Injections/Hijackings, & Programming.
+- 🌱 The best time to plant a tree was 20 years ago. The second best time is now.
+- 📫 DMs are open for serious inquiries only. Thanks.
